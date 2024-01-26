@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://tenor.com/es/view/text-work-computer-working-penguin-gif-16760829579653810809">
 </div>
 
 <!--Header Name-->
