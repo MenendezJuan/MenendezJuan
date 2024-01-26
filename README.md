@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://tenor.com/es/view/text-work-computer-working-penguin-gif-16760829579653810809">
+  <img align="right" width="40%" src="https://github.com/MenendezJuan/MenendezJuan/blob/45d06b74eaf500e9111c3c367390a283372b2f20/go-gopher-svgrepo-com.svg">
 </div>
 
 <!--Header Name-->
