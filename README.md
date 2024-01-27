@@ -1,89 +1,82 @@
 <!--Banner-->
-![MenendezJuan BannerImage](https://github.com/MenendezJuan/MenendezJuan/blob/255c8e7aac905564978af635c2196c88d096e443/Software%20Engineering%20(3).png)
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://github.com/MenendezJuan/MenendezJuan/blob/45d06b74eaf500e9111c3c367390a283372b2f20/go-gopher-svgrepo-com.svg">
-</div>
+![MenendezJuan BannerImage](https://github.com/MenendezJuan/MenendezJuan/assets/71657649/85c0500d-ab81-464e-9c71-be181daeba35)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# Hola! :wave:  soy Juan 
+𝘋𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘢𝘥𝘰𝘳 𝘉𝘢𝘤𝘬𝘦𝘯𝘥
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Soy un desarrollador backend especializado en tecnologías como C#, .NET, Azure, SQL Server, MySQL y MariaDB. <br/>Apasionado por la creación de REST API y el diseño de bases de datos. <br/>Me encanta enfrentar nuevos retos y aprender constantemente. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- :computer: Estudiante de Ingeniería en Sistemas
+- :green_book: Siempre en constante aprendizaje, creo que cada día es una oportunidad para aprender algo nuevo.
+- :office: Desarrollador trainee en Cedeira Software
+- :mailbox: ¡Contáctame! Email: jumenendez01@gmail.com
+- :space_invader: Desarrollando mi portafolio, ¡pronto estará disponible!
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=MenendezJuan&label=Profile%20views&color=blue&style=for-the-badge&logo=star" alt="MenendezJuan" style="padding-right:20px;" />
 </p>
 
 ---
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">:bulb:Lenguajes y Herramientas:bulb:</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=cs,js,html,css,angular,azure,dotnet,git,github,mysql,visualstudio,postman&perline=6"  />
 </p>
 <br />
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆 Trofeos de GitHub 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/MenendezJuan/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MenendezJuan&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 Estadísticas de GitHub 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Estadísticas de GitHub</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/MenendezJuan">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=MenendezJuan&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Estadísticas de Racha</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/MenendezJuan">
+          <img align="center" src="https://streak-stats.demolab.com?user=MenendezJuan&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Último Proyecto</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/MenendezJuan/Solix.Booking">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=MenendezJuan&repo=solix.booking&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Principales Contribuciones</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/MenendezJuan">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=MenendezJuan&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -92,41 +85,37 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Gráfico de Contribuciones 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenendezJuan&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">:thought_balloon: Pensamiento del Día :thought_balloon:</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=algolia&category=programming&font=delius">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Conéctate Conmigo 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="https://www.linkedin.com/in/juancruzmen%C3%A9ndez/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:jumenendez01@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=jumenendez01@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+<a href="https://www.youtube.com/@Unveidev" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Unveidev Youtube" style="margin-bottom: 5px;" />
 </a>
 </div>
 
@@ -134,9 +123,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-------
-
-Credit: [Kiran1689](https://github.com/Kiran1689)
-
-Last Edited on: 29/11/2023
