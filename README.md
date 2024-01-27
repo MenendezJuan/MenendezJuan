@@ -9,14 +9,14 @@
 <!--Start Intro-->               
 <p align="left">Soy un desarrollador backend especializado en tecnologías como C#, .NET, Azure, SQL Server, MySQL y MariaDB. <br/>Me encanta enfrentar nuevos retos y aprender constantemente. </p>
 
-💻 Estudiante de Ingeniería en Sistemas
-🤖 Docente de robótica e informática
-📚 Siempre en constante aprendizaje, creo que cada día es una oportunidad para aprender algo nuevo.
-🏢 Desarrollador trainee en Cedeira Software
-📧 No dudes en contactarme: jumenendez01@gmail.com
-🛠️ Me gusta crear proyectos reales que resuelvan problemas significativos.
-📖 Mis Hobbies: Lectura, Fútbol y Ajedrez.
-👾 Desarrollando mi portafolio, ¡pronto estará disponible!
+-💻 Estudiante de Ingeniería en Sistemas <br/>
+-🤖 Docente de robótica e informática<br/>
+-📚 Siempre en constante aprendizaje, creo que cada día es una oportunidad para aprender algo nuevo.<br/>
+-🏢 Desarrollador trainee en Cedeira Software.<br/>
+-📧 No dudes en contactarme: jumenendez01@gmail.com<br/>
+-🛠️ Me gusta crear proyectos reales que resuelvan problemas significativos.<br/>
+-📖 Mis Hobbies: Lectura, Fútbol y Ajedrez.<br/>
+-👾 Desarrollando mi portafolio, ¡pronto estará disponible!<br/>
 <!--End Intro-->
 
 <!--Profile Count Badge-->
