@@ -39,7 +39,7 @@
 <h2 align="center">🏆 Trofeos de GitHub 🏆</h2>
 <p align="center">
   <a href="https://github.com/MenendezJuan/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MenendezJuan&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=MenendezJuan&row=2&column=6&margin-w=20&margin-h=20&no-bg=true" alt="GitHub Trophies">
   </a>
 </p>
 <br />
