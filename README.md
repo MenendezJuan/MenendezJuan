@@ -12,7 +12,7 @@
 -💻 Estudiante de Ingeniería en Sistemas <br/>
 -🤖 Docente de robótica e informática<br/>
 -📚 Siempre en constante aprendizaje, creo que cada día es una oportunidad para aprender algo nuevo.<br/>
--🏢 Desarrollador trainee en Cedeira Software.<br/>
+-🏢 Desarrollador Backend en Banco Galicia.<br/>
 -📧 No dudes en contactarme: jumenendez01@gmail.com<br/>
 -🛠️ Me gusta crear proyectos reales que resuelvan problemas significativos.<br/>
 -📖 Mis Hobbies: Lectura, Fútbol y Ajedrez.<br/>
